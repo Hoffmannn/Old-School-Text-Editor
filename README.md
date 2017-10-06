@@ -1,4 +1,4 @@
-# Old-School-Text-Editor
+# Old School Text Editor
 
 Explaining this project:
 
